@@ -7,7 +7,7 @@ keycloak:
   resource: spring-boot-keycloak-webapi
   ssl-required: external
   credentials:
-    secret: d50a059a-484b-4138-8403-22a491fbc488
+    secret: 4d37011c-5e8b-4539-b301-9df26e566026
   use-resource-role-mappings: false
   bearer-only: false
   autodetect-bearer-only: true

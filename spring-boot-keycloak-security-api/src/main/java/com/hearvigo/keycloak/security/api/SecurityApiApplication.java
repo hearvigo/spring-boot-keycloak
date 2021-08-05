@@ -1,4 +1,4 @@
-package io.vigoz.keycloak.security.api;
+package com.hearvigo.keycloak.security.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

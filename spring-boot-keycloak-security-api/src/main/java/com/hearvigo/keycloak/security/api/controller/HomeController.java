@@ -1,4 +1,4 @@
-package io.vigoz.keycloak.security.api.controller;
+package com.hearvigo.keycloak.security.api.controller;
 
 import org.keycloak.KeycloakSecurityContext;
 import org.slf4j.Logger;

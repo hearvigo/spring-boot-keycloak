@@ -1,4 +1,4 @@
-package io.vigoz.keycloak.security.api.config;
+package com.hearvigo.keycloak.security.api.config;
 
 import org.keycloak.adapters.KeycloakConfigResolver;
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;
