@@ -4,7 +4,7 @@ server:
 keycloak:
   realm: demo
   auth-server-url: http://127.0.0.1:8080/auth
-  resource: spring-boot-keycloak-security-web
+  resource: spring-boot-keycloak-security-api
   ssl-required: external
   credentials:
     secret: ab38b686-125b-4fb4-a36e-801996d2b9cb
